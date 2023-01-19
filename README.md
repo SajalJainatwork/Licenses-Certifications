@@ -1,2 +1,2 @@
 # Licenses-Certifications
-IBM Data Science Certifications
+IBM Data Science Professional Certifications
